@@ -1,0 +1,29 @@
+-----------------------------------------------------HELLO, WELCOME TO PYTHON-CHESS GAME----------------------------------------------------------------
+
+-----ABOUT THE GAME-----
+
+--> This is a console chess game, so both the players need to use the same terminal to play the game.
+--> There is no time limit for the game.
+                 ****** To make your move you need to type the following:
+                       <piece abbreviation><column alphabet><row number>
+                      For Example: To move a Queen to row '4' and column 'g' you need to type: 'Qg4' ******
+
+-----BASIC RULES OF CHESS GAME----
+--> Always white moves first
+--> The King moves from its square to a neighboring square.
+--> The Rook can move in its line or row
+--> The Bishop moves diagnolly
+--> The Queen may move like a Rook or a Bishop
+--> The Knight jumps in making the shortest move that is not a straight one(L shape)
+--> The Pawn can move two steps straight ahead in the beginning and then can move one step ahead.
+
+All pieces are subject to capture except the King.
+"CHECKMATE" occurs when a player cannot save his King from capture.When this occurs the game is over.
+   
+          *** NOTE: En passant and castling methods are not allowed.***
+
+
+
+
+    //To know more about chess rules, please visit the this site https://www.chesshouse.com/pages/chess-rules
+
